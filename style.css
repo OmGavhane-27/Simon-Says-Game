@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 6px solid black;
+    border-radius: 20%;
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.yellow {
+    background-color: rgb(211, 202, 23);
+}
+
+.red {
+    background-color: rgb(229, 44, 109);
+}
+
+.purple {
+    background-color: rgb(152, 43, 152);
+}
+
+.green {
+    background-color: rgb(1, 115, 1);
+}
+
+.white{
+    background-color: white;
+}
+.rred{
+    background-color: red;
+}
